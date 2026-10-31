@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "files": {
+    "Leads.csv": {
+      "sha256": "6b632b7f355d1e968d93fcb56f5d7d4720eacb3b684a4e28533d564dd30d320e",
+      "uncompressed_bytes": 2359562,
+      "storage": "raw",
+      "path": "Leads.csv"
+    }
+  }
+}
