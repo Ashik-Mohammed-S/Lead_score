@@ -1,0 +1,53 @@
+{
+  "source_repository": "vaishnavkadhao/ai-lead-scoring-conversion-intelligence",
+  "commit": "1ec44ea06d8e3b4bdccfa4c1d44b0c28e8c94d69",
+  "license": null,
+  "files": [
+    {
+      "filename": "Leads.csv",
+      "url": "https://raw.githubusercontent.com/vaishnavkadhao/ai-lead-scoring-conversion-intelligence/1ec44ea06d8e3b4bdccfa4c1d44b0c28e8c94d69/data/leads.csv",
+      "sha256": "6b632b7f355d1e968d93fcb56f5d7d4720eacb3b684a4e28533d564dd30d320e",
+      "bytes": 2359562,
+      "rows": 9240,
+      "columns": [
+        "Prospect ID",
+        "Lead Number",
+        "Lead Origin",
+        "Lead Source",
+        "Do Not Email",
+        "Do Not Call",
+        "Converted",
+        "TotalVisits",
+        "Total Time Spent on Website",
+        "Page Views Per Visit",
+        "Last Activity",
+        "Country",
+        "Specialization",
+        "How did you hear about X Education",
+        "What is your current occupation",
+        "What matters most to you in choosing a course",
+        "Search",
+        "Magazine",
+        "Newspaper Article",
+        "X Education Forums",
+        "Newspaper",
+        "Digital Advertisement",
+        "Through Recommendations",
+        "Receive More Updates About Our Courses",
+        "Tags",
+        "Lead Quality",
+        "Update me on Supply Chain Content",
+        "Get updates on DM Content",
+        "Lead Profile",
+        "City",
+        "Asymmetrique Activity Index",
+        "Asymmetrique Profile Index",
+        "Asymmetrique Activity Score",
+        "Asymmetrique Profile Score",
+        "I agree to pay the amount through cheque",
+        "A free copy of Mastering The Interview",
+        "Last Notable Activity"
+      ]
+    }
+  ]
+}
